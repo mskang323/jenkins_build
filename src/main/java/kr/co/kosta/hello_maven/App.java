@@ -9,5 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello Maven World!!!" );
+        System.out.println( "Build when a change is pushed to GitHub!" );
     }
 }
